@@ -16,9 +16,9 @@ body {
 	font-weight: 300;
 	padding: 0;
 	margin: 0;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 28px;
-	color: #777;
+	color: #5a5858;
 	background: #fff;
 	overflow-x: hidden;
 	position: relative;
@@ -169,7 +169,7 @@ a:hover {
 }
 
 .btn-primary {
-	font-size: 17px;
+	font-size: 18px;
 	margin-right: 10px;
 	border: 2px solid #3eb0f7;
 	background: #3eb0f7;
@@ -220,8 +220,8 @@ a:hover {
 }
 
 .logo img {
-	width: 150px;
-	height: 37px
+	width: 350px;
+	height: 75px;
 }
 
 .landing h1 {
@@ -242,7 +242,7 @@ a:hover {
 }
 
 .landing-text p {
-	font-size: 17px !important;
+	font-size: 18px !important;
 }
 
 .head-btn {
@@ -255,7 +255,7 @@ a:hover {
 	min-width: 80px;
 	margin-right: 5px;
 	transition: all 0.4s;
-	font-size: 14px;
+	font-size: 18px;
 	color: #fff;
 }
 
@@ -292,7 +292,7 @@ a:hover {
 	width: 100%;
 	background-color: #3eb0f7;
 	color: white;
-	font-size: 17px !important;
+	font-size: 18px !important;
 	padding: 0 33px;
 	border: none;
 	margin: 0;
@@ -543,7 +543,7 @@ a:hover {
 
 .btn-price {
 	margin: 5px 0 15px;
-	font-size: 17px;
+	font-size: 18px;
 	padding: 7px 35px;
 	height: 40px;
 	background: #3eb0f7;
@@ -612,7 +612,7 @@ a:hover {
 
 .testi-item .client-info .client-name {
 	margin-top: 10px;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .testi-item .client-info .company {
@@ -825,7 +825,7 @@ a:hover {
 	border: none;
 	border-radius: 0;
 	position: relative;
-	font-size: 17px;
+	font-size: 18px;
 	line-height: 22px;
 	padding: 16px;
 	padding-left: 60px;
@@ -852,7 +852,7 @@ a:hover {
 
 .table > thead > tr > th,
 .table > tbody > tr > td {
-	font-size: 15px;
+	font-size: 18px;
 	font-weight: 300;
 	padding: 20px 20px;
 }
@@ -979,7 +979,7 @@ a:hover {
 		margin-top: 10px;
 	}
 	.feat-list p {
-		font-size: 15px;
+		font-size: 18px;
 	}
 	.feature-2-pic {
 		margin-top: 50px;
@@ -1107,7 +1107,7 @@ a:hover {
 		margin: 20px 0 10px 0;
 	}
 	.landing-text p {
-		font-size: 16px !important;
+		font-size: 18px !important;
 	}
 	#intro {
 		padding-top: 50px;
@@ -1189,14 +1189,14 @@ a:hover {
 		margin: 20px 0 35px 0;
 	}
 	.btn-default {
-		font-size: 16px;
+		font-size: 18px;
 		margin: 30px 0 10px;
 		padding: 15px 30px;
 		height: 35px;
 		border-radius: 80px;
 	}
 	.btn-primary {
-		font-size: 16px;
+		font-size: 18px;
 		margin: 30px 0 10px;
 		margin-right: 15px;
 		padding: 15px 30px;
@@ -1275,7 +1275,7 @@ ul.list-inline li {
 	}
 	ul.nav.navbar-nav li a {
 		padding: 9px 15px;
-		font-size: 15px;
+		font-size: 18px;
 		font-weight: 500;
 	}
 }
