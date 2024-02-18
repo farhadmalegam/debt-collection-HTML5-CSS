@@ -559,11 +559,11 @@ a:hover {
 
 #client {
 	background: #f6f6f6;
-	padding: 70px 0 70px;
+	padding: 50px 0 50px;
 }
 
 #client img {
-	max-height: 80px;
+	max-height: 200px;
 	margin: 0 20px;
 	opacity: 1;
 	transition: all 0.3s ease;
