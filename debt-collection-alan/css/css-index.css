@@ -1,7 +1,6 @@
 /**
-* Backyard
-* Landing Page Template
-* Author: MoxDesign - http://www.moxdesign.com
+* Alan Associate
+* Agency: www.dreamwebsites.com.au
 **/
 
 html,
@@ -71,7 +70,7 @@ p {
 }
 
 a {
-	color: #3eb0f7;
+	color: #be272c;
 	outline: 0;
 	font-weight: bold;
 	-webkit-transition: all .8s ease;
@@ -86,7 +85,7 @@ a:hover {
 }
 
 .highlight {
-	color: #3eb0f7;
+	color: #c5363b;
 }
 
 #preloader {
@@ -136,14 +135,14 @@ a:hover {
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-	color: #3eb0f7;
+	color: #c5363b;
 }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
 	background: transparent;
-	color: #3eb0f7;
+	color: #be272c;
 }
 
 
@@ -151,10 +150,10 @@ a:hover {
 .btn-default {
 	font-size: 17px;
 	margin-right: 10px;
-	border: 2px solid #3eb0f7;
+	border: 2px solid #be272c;
 	background: transparent;
 	transition: all 0.4s;
-	color: #3eb0f7;
+	color: #be272c;
 	border-radius: 100px;
 }
 
@@ -163,16 +162,16 @@ a:hover {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-	border: 2px solid #3eb0f7;
-	background: #3eb0f7;
+	border: 2px solid #be272c;
+	background: #be272c;
 	color: white;
 }
 
 .btn-primary {
 	font-size: 18px;
 	margin-right: 10px;
-	border: 2px solid #3eb0f7;
-	background: #3eb0f7;
+	border: 2px solid #be272c;
+	background: #be272c;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 100px;
@@ -183,9 +182,9 @@ a:hover {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-	border: 2px solid #3eb0f7;
+	border: 2px solid #be272c;
 	background: transparent;
-	color: #3eb0f7;
+	color: #be272c;
 }
 
 .btn-secondary {
@@ -195,7 +194,7 @@ a:hover {
 	padding: 20px 50px;
 	height: 65px;
 	border: none;
-	background: #3eb0f7;
+	background: #be272c;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 4px;
@@ -206,7 +205,7 @@ a:hover {
 .btn-secondary:active,
 .btn-secondary.active,
 .open > .dropdown-toggle.btn-secondary {
-	background: #1f96e0;
+	background: #be272c;
 	color: white
 }
 
@@ -290,7 +289,7 @@ a:hover {
 	border-radius: 0;
 	height: 55px;
 	width: 100%;
-	background-color: #3eb0f7;
+	background-color: #be272c;
 	color: white;
 	font-size: 18px !important;
 	padding: 0 33px;
@@ -301,7 +300,7 @@ a:hover {
 }
 
 .form-header .btn:hover {
-	background-color: #1f96e0;
+	background-color: #5e1113;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
@@ -364,30 +363,36 @@ a:hover {
 
 .feat-list {
 	margin-top: 40px;
+	
 }
 
 .feat-list i {
 	font-size: 48px;
 	float: left;
 	width: 20%;
-	color: #555;
+	color: #ffffff;
 	height: 100%;
 	position: relative;
 	opacity: 0.6;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
+	background-color: #be272c;
+	padding: 10px;
 }
 
-.feat-list:hover i {
-	color: #3eb0f7;
+/* .feat-list:hover i {
+	color: #be272c;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
-}
+} */
 
 #feature .inner {
 	float: left;
 	display: inline-block;
 	width: 80%;
+	color:#f6f6f6;
+	background-color: #be272c;
+	padding: 10px;
 }
 
 #feature-2 {
@@ -398,10 +403,13 @@ a:hover {
 	font-size: 40px;
 	font-weight: 300;
 	margin: 15px 0 15px 0;
+	
 }
 
 .feature-2-pic {
-	margin-top: 20px;
+	margin-top: 10px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 .subscribe {
@@ -440,7 +448,7 @@ a:hover {
 
 .subscribe-form button {
 	border-radius: 0 4px 4px 0;
-	background-color: #3eb0f7;
+	background-color: #be272c;
 	color: #ffffff;
 	font-size: 1em;
 	line-height: 52px;
@@ -458,7 +466,7 @@ a:hover {
 }
 
 .subscribe-form .btn:hover {
-	background-color: #1f96e0;
+	background-color: #5e1113;
 	color: #fff;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
@@ -488,7 +496,7 @@ a:hover {
 	width: 100px;
 	height: 3px;
 	margin: 0 auto;
-	background: #3eb0f7;
+	background: #be272c;
 }
 
 .price-box {
@@ -524,7 +532,7 @@ a:hover {
 }
 
 .price-group .price {
-	color: #3eb0f7;
+	color: #be272c;
 	font-size: 90px;
 	font-weight: 500;
 }
@@ -546,14 +554,14 @@ a:hover {
 	font-size: 18px;
 	padding: 7px 35px;
 	height: 40px;
-	background: #3eb0f7;
+	background: #be272c;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 4px;
 }
 
 .btn-price:hover {
-	background: #1f96e0;
+	background: #be272c;
 	color: white;
 }
 
@@ -617,11 +625,11 @@ a:hover {
 
 .testi-item .client-info .company {
 	font-style: italic;
-	color: #3eb0f7;
+	color: #be272c;
 }
 
 .owl-theme .owl-controls .owl-page span {
-	background: #3eb0f7;
+	background: #be272c;
 }
 
 .video-header {
@@ -687,7 +695,7 @@ a:hover {
 	margin-left: 15px;
 	position: absolute;
 	left: 0;
-	color: #3eb0f7;
+	color: #f7f8f8;
 	font-size: 25px;
 	line-height: 30px;
 }
@@ -728,7 +736,7 @@ a:hover {
 #contact-form .btn {
 	height: 55px;
 	width: 100%;
-	background-color: #3eb0f7;
+	background-color: #be272c;
 	color: #ffffff;
 	font-size: 17px !important;
 	line-height: 18px;
@@ -741,7 +749,7 @@ a:hover {
 }
 
 #contact-form .btn:hover {
-	background-color: #1f96e0;
+	background-color: #5e1113;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
@@ -767,17 +775,17 @@ a:hover {
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
-	color: #3eb0f7;
+	color: #f9fafa;
 	border-radius: 50%;
 	background: #fff;
-	border: solid 1px #3eb0f7;
+	border: solid 1px #be272c;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
 
 .social li a:hover {
 	color: #fff;
-	background: #3eb0f7;
+	background: #c5363b;
 }
 
 #shortcode-basic {
@@ -812,7 +820,7 @@ a:hover {
 }
 
 .social-icons i {
-	color: #3eb0f7;
+	color: #be272c;
 	font-size: 30px;
 	line-height: 40px
 }
@@ -844,7 +852,7 @@ a:hover {
 }
 
 .table > thead > tr > th {
-	background: #3eb0f7;
+	background: #be272c;
 	color: #fff;
 	border-bottom: 0;
 	text-transform: uppercase;
@@ -883,7 +891,7 @@ a:hover {
 }
 
 .scrollToTop:hover {
-	color: #3eb0f7;
+	color: #c5363b;
 }
 
 .control-group .controls {
@@ -919,12 +927,14 @@ a:hover {
 	#intro p,
 	#feature-2 p {
 		text-align: center;
+		
 	}
 	.btn-section {
 		text-align: center;
 	}
 	#feature {
 		padding-top: 75px;
+		
 	}
 	.feature-img {
 		margin-top: 0;
@@ -1253,12 +1263,12 @@ ul.list-inline li {
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show > .nav-link {
-	color: #3eb0f7;
+	color: #be272c;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-	color: #3eb0f7
+	color: #c5363b
 }
 
 @media(max-width:1900px) {
@@ -1316,4 +1326,22 @@ ul.list-inline li {
 	.btn-default {
 		margin: 0;
 	}
+}
+
+/* from cardiac site */
+.pt-section.pt-style-1 .pt-section-sub-title {
+    letter-spacing: 0.04em;
+    font-family: var(--title-fonts);
+    font-weight: 600;
+    font-size: 1px;
+    line-height: 22px;
+    position: relative;
+    text-transform: uppercase;
+    color: var(--primary-color);
+    padding: 4px 8px;
+    margin: 0 0 10px;
+    display: inline-block;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
 }
